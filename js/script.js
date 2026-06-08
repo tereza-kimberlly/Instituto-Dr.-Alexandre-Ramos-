@@ -56,11 +56,11 @@
     }
 
     // esconde ao rolar para baixo, mostra ao rolar para cima
-    if (current > lastScroll && current > 120) {
+    /* if (current > lastScroll && current > 120) {
       header.classList.add('header-hidden');
     } else {
       header.classList.remove('header-hidden');
-    }
+    }*/
 
     lastScroll = current <= 0 ? 0 : current;
   }, { passive: true });
