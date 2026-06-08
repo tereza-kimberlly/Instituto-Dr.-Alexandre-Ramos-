@@ -33,6 +33,7 @@ header{
     z-index:1000;
 
     border-bottom:1px solid rgba(212,175,55,.3);
+    transition: transform .4s ease, background .4s ease, box-shadow .4s ease;
 }
 
 .logo-container{
