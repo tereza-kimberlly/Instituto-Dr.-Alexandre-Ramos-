@@ -12,14 +12,7 @@ body{
     color:white;
 }
 
-/*nav{
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
 
-    padding:20px 8%;
-    background:#0f1e35;
-}*/
 
 header{
     display:flex;
@@ -92,7 +85,7 @@ header{
   background:
     radial-gradient(ellipse 70% 55% at 50% 42%, rgba(201,162,39,0.08) 0%, transparent 65%),
     linear-gradient(rgba(11,26,46,0.72), rgba(11,26,46,0.88)),
-    url('../img/fundo.jpeg');
+    url('../img/fundo.mebp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
